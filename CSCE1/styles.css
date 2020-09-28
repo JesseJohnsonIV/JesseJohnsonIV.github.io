@@ -3,6 +3,19 @@ body {
     font-family:Arial, Helvetica, sans-serif;
 }
 
+.assignment {
+    display:flex;
+    padding:5px;
+    margin:15px;
+    background:lightpink;
+}
+
+.assignment img {
+    width:300px;
+    height:300px;
+    padding:5px;
+}
+
 h1 {
     color:purple;
     text-align:center;
